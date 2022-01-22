@@ -1,0 +1,25 @@
+/*=================
+     Global style
+===================*/
+.df-bgc{
+    background-color: #FCEAE8;
+}
+.mt-100{
+    margin-top: 100px;
+}
+.h-300{
+    height: 300px;
+}
+.df-btn-bg{
+    background-image: linear-gradient(#FF579A, #FF1571);
+    border: none;
+}
+.df-bg-yellow{
+    background: #FFA500;
+}
+.df-bg-pink{
+    background: #DA70D6;
+}
+.df-bg-blue{
+    background: #0000FF;
+}
